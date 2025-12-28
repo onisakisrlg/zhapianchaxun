@@ -1,0 +1,5 @@
+{
+  "name": "JP Scam Check",
+  "description": "A multilingual tool to verify Japanese phone numbers against known official entities and scam reports using AI analysis.",
+  "requestFramePermissions": []
+}
